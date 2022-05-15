@@ -1,1 +1,1 @@
-"# Boot-H" 
+A project used to root Huawei phones.
